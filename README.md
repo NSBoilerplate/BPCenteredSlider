@@ -18,7 +18,7 @@ it simply add the following line to your Podfile:
 
 ## Author
 
-jsambells, jeffrey@speakfeel.ca
+Jeffrey Sambells, bp@jeffreysambells.com
 
 ## License
 

@@ -1,0 +1,14 @@
+PODS:
+  - BPCenteredSlider (0.0.1)
+
+DEPENDENCIES:
+  - BPCenteredSlider (from `../BPCenteredSlider.podspec`)
+
+EXTERNAL SOURCES:
+  BPCenteredSlider:
+    :path: ../BPCenteredSlider.podspec
+
+SPEC CHECKSUMS:
+  BPCenteredSlider: db9fe1ad0059155bf0012410c2c39b26045cae26
+
+COCOAPODS: 0.29.0

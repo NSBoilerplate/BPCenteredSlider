@@ -1,7 +1,1 @@
 pod "BPCenteredSlider", :path => "../BPCenteredSlider.podspec"
-
-target "Demo" do
-end
-
-target "DemoTests" do
-end
