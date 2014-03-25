@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "BPCenteredSlider"
-  s.version          = "0.0.1"
+  s.version          = "0.0.2"
   s.summary          = "UISlider with centered selection indicator."
   s.description      = <<-DESC
                        A UISlider class that uses a positive and negativ value weighted at the center of the slider.
