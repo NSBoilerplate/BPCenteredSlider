@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
                        A UISlider class that uses a positive and negativ value weighted at the center of the slider.
                        DESC
   s.homepage         = "https://github.com/NSBoilerplate"
-  s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
+  s.screenshots      = "https://raw.githubusercontent.com/NSBoilerplate/BPCenteredSlider/master/Images/Demo.gif"
   s.license          = 'MIT'
   s.author           = { "jsambells" => "bp@jeffreysambells.com" }
   s.source           = { :git => "https://github.com/NSBoilerplate/BPCenteredSlider.git", :tag => s.version.to_s }
